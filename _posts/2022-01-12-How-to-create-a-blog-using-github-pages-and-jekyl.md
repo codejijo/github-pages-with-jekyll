@@ -1,3 +1,8 @@
+---
+title: "Create a Blog Post"
+date: 2022-01-12
+---
+
 # How to create a blog page using Github pages and Jekyl
 
 - start the course
